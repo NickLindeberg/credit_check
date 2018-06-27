@@ -7,10 +7,13 @@ print card_array = [card_number]
 #if statement that adds says the sum of the two values is <10 then add them together
 
 
-sum_card = 
+
+
+card_total =
+sum_card = card_total.sum
 
 if sum_card % 10 = 0
   puts "The number is valid!"
 else
-  puts "The number is invald"
+  puts "The number is invalid"
 end
