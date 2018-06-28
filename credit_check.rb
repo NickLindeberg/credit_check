@@ -39,25 +39,3 @@ if sum_total % 10 == 0
 else
   puts "The number is invalid"
 end
-
-
-
-
-
-#this section will have an arrary of some sort.
-#multiply every other element of the array by 2
-#if statement that adds says the sum of the two values is <10 then add them together
-
-
-
-
-# card_total =
-# sum_card = card_total.sum
-#
-# #need to make
-#
-# if sum_card % 10 = 0
-#   puts "The number is valid!"
-# else
-#   puts "The number is invalid"
-# end
